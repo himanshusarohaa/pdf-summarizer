@@ -3,7 +3,7 @@
 An intelligent PDF summarization tool powered by Google's Gemini AI and built with Streamlit. Upload any PDF document and get an instant AI-powered summary with key takeaways.
 
 ## Live Demo
-[Click here to try the app](https://your-streamlit-app-url.streamlit.app)
+[Click here to try the app](https://pdf-summarizer-hhsppnvejzceyqmnszxdqp.streamlit.app/)
 
 ## ✨ Features
 
